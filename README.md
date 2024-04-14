@@ -1,5 +1,7 @@
 # tRPC
 
+tRPC allows you to easily build and consume fully typesafe APIs without schemas or code generation. (Without API contracts)
+
 ### Definitions:
 
 RPC: Remote Procedure Call → Call functions instead of endpoints.
